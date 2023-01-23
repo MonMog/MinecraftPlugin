@@ -2,4 +2,4 @@
 A plugin where if you break a block, it teleports you about 15 blocks into the air
 
 
-*still in progress right now but I am currently working on it and will get the plugin out soon
+I have uploaded the .jar for the plugin and will be updating it so you can modify the amount of blocks with a command in chat
